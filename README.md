@@ -1,5 +1,5 @@
 # Ex No:4 Execution of Network Commands
-# Name: Svaramakrishnan B
+# Name: Sivaramakrishnan B
 # Reg No: 212222110044
 ## AIM
 Use of Network commands in Real Time environment
@@ -82,7 +82,7 @@ while True:
     finally:
         c.close()
 ```
-### TRACEROUTE COMMAND
+### Traceroute
 ```
 from scapy.all import* 
 target = ["www.google.com"] 
