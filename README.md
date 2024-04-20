@@ -90,10 +90,10 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 
-## OUTPUT
+## Output
 ![image](https://github.com/SivaramakrishnanBaskar/4.Execution_of_NetworkCommends/assets/119476322/18274212-b0de-4898-8a63-daf8e0d5ab8e)
 
-## TRACEROUTE
+## Traceroute
 ![image](https://github.com/SivaramakrishnanBaskar/4.Execution_of_NetworkCommends/assets/119476322/adb80406-4cfb-4726-837d-2bd7f980e9d6)
 
 ## Result
